@@ -1,0 +1,9 @@
+1. AWS
+2. Terraform
+3. Git
+4. Docker
+5. Kubernetes
+6. Jenkins
+7. Prometheus
+8. Grafana
+9. Ansible
